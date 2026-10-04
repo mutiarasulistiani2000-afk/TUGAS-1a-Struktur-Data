@@ -17,7 +17,7 @@ class QueueAntrean:
 
 if __name__ == "__main__":
     sistem = QueueAntrean()
-    sistem.tambah_antrean("Verifikasi KRS Ahmad")
-    sistem.tambah_antrean("Input Nilai Citra")
+    sistem.tambah_antrean("Verifikasi KRS Melisa")
+    sistem.tambah_antrean("Input Nilai Ahya")
     
     sistem.proses_antrean()

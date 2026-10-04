@@ -25,8 +25,8 @@ class ArrayMahasiswa:
 
 if __name__ == "__main__":
     sistem = ArrayMahasiswa()
-    sistem.tambah_data("1602276804", "Ahmad Saputra", "Teknik Informatika", "3.04", "Memuaskan")
-    sistem.tambah_data("1657744287", "Fajar Maulana", "Sistem Informasi", "3.16", "Sangat Memuaskan")
-    sistem.tambah_data("1689234111", "Citra", "Teknik Informatika", "3.80", "Cumlaude")
+    sistem.tambah_data("12450120341", "Mutiara Sulistiani", "Teknik Informatika", "3.50", "Memuaskan")
+    sistem.tambah_data("12450120192", "Dzikra Ahya Tsabitah", "Sistem Informasi", "3.66", "Sangat Memuaskan")
+    sistem.tambah_data("12450278590", "Melisa Amanda", "Teknik Informatika", "3.80", "Cumlaude")
     
     sistem.tampilkan_data()

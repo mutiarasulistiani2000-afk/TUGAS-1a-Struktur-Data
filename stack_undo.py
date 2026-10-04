@@ -15,7 +15,7 @@ class StackUndo:
 
 if __name__ == "__main__":
     sistem = StackUndo()
-    sistem.simpan_aksi("Menambah data mahasiswa: Ahmad")
-    sistem.simpan_aksi("Memasukkan antrean: Fajar")
+    sistem.simpan_aksi("Menambah data mahasiswa: Ahya")
+    sistem.simpan_aksi("Memasukkan antrean: Mutiara")
     
     sistem.undo_aksi()

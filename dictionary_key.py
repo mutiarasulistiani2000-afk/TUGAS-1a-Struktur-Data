@@ -31,6 +31,6 @@ class DictionaryKey:
 
 if __name__ == "__main__":
     sistem = DictionaryKey()
-    sistem.tambah_data("1689234111", "Citra", "Teknik Informatika", "3.80", "Cumlaude")
+    sistem.tambah_data("12450120341", "Mutiara Sulistiani", "Teknik Informatika", "3.50", "")
     
-    sistem.cari_data("1689234111")
+    sistem.cari_data("12450120341")
